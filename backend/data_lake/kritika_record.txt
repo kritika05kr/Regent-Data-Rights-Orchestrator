@@ -1,0 +1,3 @@
+User: kritika@example.com
+Customer Id: CUST001
+Some random log data...
